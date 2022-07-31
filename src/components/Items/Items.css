@@ -1,0 +1,26 @@
+.saidbar__item {
+  margin-bottom: 14px;
+  padding: 20px 25px;
+  color: #a4a6b3;
+  transition: background-color 0.3s ease;
+}
+
+.saidbar__item:nth-child(8) {
+  border-top: 1px solid #aaabb1;
+}
+
+.saidbar__item:hover {
+  background-color: rgba(161, 151, 151, 0.295);
+  border-left: 2px solid #fff;
+  color: #dde2ff;
+}
+
+.saidbar__img {
+  margin-right: 10px;
+}
+
+.saidbar__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}

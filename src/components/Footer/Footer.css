@@ -1,0 +1,84 @@
+.container {
+  max-width: 1100px !important;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.box__footer__one {
+  max-width: 500px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
+
+.footer__box__title {
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #252733;
+}
+
+.footer__box__desc {
+  font-size: 12px;
+  color: #252733;
+}
+
+.footer__box__desc--active {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #9fa2b4;
+}
+
+.footer__menu__item-title {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #252733;
+  padding: 4px 0;
+}
+
+.footer__menu__item {
+  margin: 10px 0 10px 0;
+}
+
+.footer__menu__item-num {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #9fa2b4;
+}
+
+.text-right {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #3751ff;
+  margin-top: -29px;
+  margin-bottom: 14px;
+}
+
+
+.input__checkbox {
+  transform: scale(1);
+  width: 1.3em;
+  height: 1.3em;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}

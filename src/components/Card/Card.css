@@ -1,0 +1,35 @@
+.Card{
+  max-width: 230px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 30px;
+  background: #ffffff;
+  border: 1px solid currentColor;
+  border-radius: 8px;
+  margin-right: 10px;
+  color: #9fa2b4;
+}
+
+.Card:hover {
+    color: #3751FF;
+    border: 1px solid #3751FF;
+    cursor: pointer;
+}
+
+.item__text {
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.4px;
+}
+
+.item__number {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+}
